@@ -1,0 +1,17 @@
+{
+    "python.formatting.provider": "yapf",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "netdreams.pe",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "pushNot",
+            "username": "netdrepe_notifications_user",
+            "database": "netdrepe_notifications"
+        }
+    ]
+}
